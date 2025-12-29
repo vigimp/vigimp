@@ -1,9 +1,7 @@
 <!-- ===================== -->
 <!-- 🔥 PROFILE BANNER -->
 <!-- ===================== -->
-![Banner](https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png)
-
-# Hi 👋 I'm Vignesh
+![Banner](https://raw.githubusercontent.com/vigimp/vigimp/main/github-header-banner.png)
 
 🚀 **React Native Developer**  
 📱 Building high-performance mobile apps with clean UI & smooth UX  
@@ -33,25 +31,6 @@
 - 🎨 UI/UX focused React Native applications
 - ⚡ Performance-optimized mobile features
 
-<h2>📊 GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=vigimp&show_icons=true" />
-
-<hr />
-
-<h2>🔥 GitHub Streak</h2>
-<img src="https://streak-stats.demolab.com?user=vigimp" />
-
-<hr />
-
-<h2>🧠 Most Used Languages</h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigimp&layout=compact" />
-
-<hr />
-
-<h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=vigimp" />
-
-
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
@@ -61,7 +40,7 @@
 ---
 
 ## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=vigimp&style=for-the-badge)
 
 ---
 
