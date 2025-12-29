@@ -1,16 +1,71 @@
-## Hi there 👋
+<!-- ===================== -->
+<!-- 🔥 PROFILE BANNER -->
+<!-- ===================== -->
+![Banner](https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png)
 
-<!--
-**vigimp/vigimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Vignesh
 
-Here are some ideas to get you started:
+🚀 **React Native Developer**  
+📱 Building high-performance mobile apps with clean UI & smooth UX  
+🇮🇳 Based in India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+- Passionate about **mobile-first experiences**
+- Focused on **performance, scalability & UI/UX**
+- Love building **real-world apps** that solve daily problems
+
+---
+
+## 🛠 Tech Stack
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+
+---
+
+## 📌 Current Projects
+- 📓 **Today in My Life** – Notes, Expenses, Reminders & Thoughts
+- 🎨 UI/UX focused React Native applications
+- ⚡ Performance-optimized mobile features
+
+---
+
+## 📊 GitHub Stats
+![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
+
+---
+
+## 🧠 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
+
+---
+
+## 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](https://yourwebsite.com)
+
+---
+
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge)
+
+---
+
+⭐️ *If you like my work, consider following or starring my repositories!*
