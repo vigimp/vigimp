@@ -33,27 +33,24 @@
 - 🎨 UI/UX focused React Native applications
 - ⚡ Performance-optimized mobile features
 
----
+<h2>📊 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=vigimp&show_icons=true" />
 
-## 📊 GitHub Stats
-![Vignesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+<hr />
 
----
+<h2>🔥 GitHub Streak</h2>
+<img src="https://streak-stats.demolab.com?user=vigimp" />
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
+<hr />
 
----
+<h2>🧠 Most Used Languages</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigimp&layout=compact" />
 
-## 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+<hr />
 
----
+<h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=vigimp" />
 
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)
-
----
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/yourusername)
